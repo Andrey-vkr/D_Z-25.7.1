@@ -14,16 +14,10 @@ Marina (логин: Ma; пароль: 12345)
 
 
 Также добавлены следующие сообщения: 
-
 'Hello',
-
 'Good morning',
-
 'Good evening',
-
 'How are you',
-
 'I am fine',
-
 'message is good'.
 
